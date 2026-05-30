@@ -1,38 +1,28 @@
 ---
-title: "Путь"
-description: "Энциклопедия мира «Путь» — персонажи, события, локации, хронология и магия цикла романов."
+title: "Главная"
+description: "Вики по циклу «Путь»"
 tags: вики, главная
 isPublished: true
 ---
-<div class="path-page path-page--no-infobox">
+<div class="path-page path-home">
+<div class="path-layout">
+<article class="path-main">
+<div class="path-article-inner">
+<aside class="path-infobox path-infobox--image-only">
+<div class="path-infobox-inner">
+<div class="path-infobox-image">
+<img src="/path-logo.png" alt="">
+</div>
+</div>
+</aside>
+<div class="path-article-text">
 
-<div class="path-hero">
+Вики по циклу серии [«Путь»](https://author.today/work/series/5008) Михаила [Игнатова](https://author.today/u/id54937541/posts).
 
-# Путь
-
-Энциклопедия вселенной цикла **«Путь»**: герои и антагонисты, ордена и семьи, ключевые события по книгам и карта мира Поясов.
+[Обсуждение в телеграмме](https://t.me/ignatov_world_chat)
 
 </div>
-
-<div class="path-tiles">
-
-<a class="path-tile" href="/персонажи/главные/леград">Главные герои</a>
-<a class="path-tile" href="/персонажи">Персонажи</a>
-<a class="path-tile" href="/события">События</a>
-<a class="path-tile" href="/локации">Локации</a>
-<a class="path-tile" href="/организации">Организации</a>
-<a class="path-tile" href="/книги">Книги</a>
-<a class="path-tile" href="/хронология">Хронология</a>
-<a class="path-tile" href="/концепты">Концепты</a>
-
 </div>
-
-## О проекте
-
-Контент синхронизируется из git-репозитория вольта Obsidian. Редактирование в Wiki.js при включённом Git storage сохраняется обратно в репозиторий.
-
-## Быстрый поиск
-
-Используйте **поиск** в шапке или дерево разделов слева. Карточки персонажей содержат инфобокс справа; блок **Связи** на странице можно раскрыть при необходимости.
-
+</article>
+</div>
 </div>
