@@ -11,7 +11,7 @@ isPublished: true
 <aside class="path-infobox path-infobox--image-only">
 <div class="path-infobox-inner">
 <div class="path-infobox-image">
-<img src="/path-logo.png" alt="">
+<img src="/path-logo.png" alt="Путь" width="512" height="512">
 </div>
 </div>
 </aside>
