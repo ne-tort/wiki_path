@@ -10,6 +10,9 @@ obsidian:
 <div class="path-page">
 <div class="path-layout">
 <article class="path-main">
+<div class="path-article-inner">
+<aside class="path-infobox"><div class="path-infobox-inner"><table class="path-infobox-table"><tbody><tr><th>Тип</th><td>событие</td></tr><tr><th>Статус</th><td>завершено</td></tr></tbody></table></div></aside>
+<div class="path-article-text">
 
 ## Краткое описание
 
@@ -25,8 +28,9 @@ obsidian:
 
 Тогрим подтверждает свой статус; Ярит исключён из «своих людей» Тогрима.
 
+</div>
+</div>
 </article>
-<aside class="path-infobox"><div class="path-infobox-inner"><table class="path-infobox-table"><tbody><tr><th>Тип</th><td>событие</td></tr><tr><th>Статус</th><td>завершено</td></tr><tr><th>Кратко</th><td>В рамках собрания чемпионов у костра Ярит насмехается над притязаниями Тогрима на лидерство и бросает ему вызов. Тогрим выставляет сначала Крима; Ярит побеждает Крима ударом в пах.</td></tr></tbody></table></div></aside>
 </div>
 
 
