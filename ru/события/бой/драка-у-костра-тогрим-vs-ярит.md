@@ -30,8 +30,6 @@ obsidian:
 
 </div>
 </div>
-</article>
-</div>
 
 
 <details class="path-relations" open="false">
@@ -48,4 +46,6 @@ obsidian:
 ### События
 - [Собрание чемпионов у костра](/события/социальные/собрание-чемпионов-у-костра) — родительское_событие
 </details>
+</article>
+</div>
 </div>
