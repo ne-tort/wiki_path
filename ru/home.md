@@ -1,7 +1,7 @@
 ---
 title: "Главная"
 description: "Вики по циклу «Путь»"
-tags: вики
+tags: вики, главная
 isPublished: true
 ---
 <div class="path-page path-home">
