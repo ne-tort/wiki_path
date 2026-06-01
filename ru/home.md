@@ -2,7 +2,7 @@
 title: Главная
 description: Вики по циклу «Путь»
 published: true
-date: 2026-06-01T20:47:44.278Z
+date: 2026-06-01T20:48:01.764Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-29T21:42:03.314Z
@@ -12,7 +12,7 @@ dateCreated: 2026-05-29T21:42:03.314Z
 <div class="path-layout">
 <article class="path-main">
 <div class="path-article-inner">
-<aside class="path-infobox"><div class="path-infobox-inner"><div class="path-infobox-image"><img src="/legrad.png" alt="Главная" width="512" height="512"></div><table class="path-infobox-table"><tbody><tr><th>Тип</th><td></td></tr></tbody></table></div></aside>
+<aside class="path-infobox"><div class="path-infobox-inner"><div class="path-infobox-image"><img src="/legrad.png" alt="Главная" width="512" height="512"></div><table class="path-infobox-table"><tbody></td></tr></tbody></table></div></aside>
 <div class="path-article-text">
 
 <div class="path-page path-home">
