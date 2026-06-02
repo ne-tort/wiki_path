@@ -3,7 +3,7 @@ title: Главная
 description: Вики по циклу «Путь»
 published: true
 date: 2026-06-02T14:54:52.543Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2026-05-29T21:42:03.314Z
 ---
@@ -21,9 +21,9 @@ dateCreated: 2026-05-29T21:42:03.314Z
 </aside>
 <div class="path-article-text">
 
-Вики по циклу серии «[Путь](https://author.today/work/series/5008)» [Михаила Игнатова](https://author.today/u/id54937541/posts).
+Вики по циклу серии <a href="https://author.today/work/series/5008" target="_blank" rel="noopener noreferrer">«Путь»</a> Михаила <a href="https://author.today/u/id54937541/posts" target="_blank" rel="noopener noreferrer">Игнатова</a>.
 
-[Обсуждение в телеграмме](https://t.me/ignatov_world_chat)
+<a href="https://t.me/ignatov_world_chat" target="_blank" rel="noopener noreferrer">Обсуждение в телеграмме</a>
 
 </div>
 </div>
